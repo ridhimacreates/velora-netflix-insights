@@ -17,7 +17,7 @@ st.set_page_config(
     layout="wide"
 )
 
-CSV_PATH = "/content/drive/MyDrive/VELORA/netflix_titles.csv"
+CSV_PATH = "netflix_titles.csv"
 
 # --------------------------------------------------
 # CUSTOM DESIGN
